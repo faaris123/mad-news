@@ -1,1 +1,1 @@
-# badger-news
+# mad-news
